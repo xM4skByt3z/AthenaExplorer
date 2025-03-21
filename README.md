@@ -31,36 +31,35 @@ pip install -r requirements.txt
 python3 AthenaExplorer.py <domain>
 ```
 
-### O que foi incluído:
-1. **Cabeçalho com imagem**:
-   - Um espaço para a logo da ferramenta (`AthenaExplorerLogo.png`), que você pode substituir pelo link real da imagem.
+---
 
-2. **Badges**:
-   - Licença, versão do Python e contribuições.
+## 🎥 Video   
+![Image](https://github.com/user-attachments/assets/24504fc5-1200-459f-8329-8cd7a83093f3)
+## https://www.youtube.com/watch?v=5_sdjzIlXmc
+## 📄 License  
 
-3. **Descrição da ferramenta**:
-   - Uma breve introdução sobre o propósito do **AthenaExplorer**.
+This project is under a **Custom License**.  
+**Not Allowed:**  
+- Resale or redistribution without authorization.
+- Creating public forks without permission.  
+⚠ **Violating this will result in legal penalties.**  
 
-4. **Funcionalidades**:
-   - Lista das principais funcionalidades da ferramenta.
+---
 
-5. **Instalação**:
-   - Passos simples para clonar, instalar dependências e executar a ferramenta.
 
-6. **Vídeo de demonstração**:
-   - Um espaço para um vídeo de demonstração (substitua o link do YouTube pelo seu vídeo).
+## 🤝 Contributing  
 
-7. **Licença**:
-   - Informações sobre a licença personalizada e restrições.
+1. **Fork** the repository. 
+2. Create a **branch** (git checkout -b feature/NewFeature).  
+3. Make a **commit** (git commit -m "Description of the change").  
+4. Push (git push origin feature/NewFeature).  
+5. Open a **Pull Request**.  
 
-8. **Contribuição**:
-   - Instruções para contribuir com o projeto.
+---
 
-9. **Contato**:
-   - E-mail e link para reportar issues no GitHub.
+## 📧 Contact  
 
-### Como usar:
-- Substitua os links de imagem e vídeo pelos reais.
-- Se necessário, ajuste o texto para refletir detalhes específicos da sua ferramenta.
+📩 **Email:** contato.deividkelven@gmail.com  
+💬 **GitHub Issues:** [Report Issue](https://github.com/xM4skByt3z/issues)  
 
-Agora, seu repositório estará bem documentado e profissional! 😊
+---
