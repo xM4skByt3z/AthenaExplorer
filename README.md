@@ -35,7 +35,7 @@ python3 AthenaExplorer.py <domain>
 
 ## 🎥 Video   
 ![Image](https://github.com/user-attachments/assets/24504fc5-1200-459f-8329-8cd7a83093f3)
-https://github.com/user-attachments/assets/3d6ebf9d-bd22-4c6a-a563-883b023b44e8
+![video](https://github.com/user-attachments/assets/3d6ebf9d-bd22-4c6a-a563-883b023b44e8)
 ## https://www.youtube.com/watch?v=5_sdjzIlXmc
 ## 📄 License  
 
