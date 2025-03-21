@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://github.com/xM4skByt3z/Gifs/blob/main/AthenaExplorerLogo.png" alt="AthenaExplorer" width="1000">
-</p>
+![Image](https://github.com/user-attachments/assets/2641b598-20e1-4fd6-b65f-da2214beb594)
 
-# 🕵️ AthenaExplorer  
+#  AthenaExplorer v1.0
 
 ![License](https://img.shields.io/badge/license-Custom-blue)  
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)  
